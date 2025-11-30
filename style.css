@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: rgba(19, 91, 135, 0.622);
+    padding: 20px;
+}
+
+.container {
+    max-width: 400px;
+    margin: auto;
+    background-color: rgb(183, 191, 192);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 10);
+}
+
+input[type="file"],
+input[type="text"] {
+    margin: 10px 0;
+    padding: 10px;
+    width: 90%;
+    max-width: 500px;
+    border-radius: 5px;
+}
+
+canvas {
+    display: block;
+    height: 300px;
+    width: 90%;
+    margin: 20px auto;
+    border: 2px solid #000;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: rgb(23, 58, 185);
+    color: white;
+    border: none;
+    border-radius: 10px;
+}
+
+button:hover {
+    background-color: blueviolet;
+}
