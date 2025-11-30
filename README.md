@@ -64,6 +64,8 @@ Users can upload any image, add **top & bottom text**, preview the meme in real-
 * Mobile-friendly UI
 
 ---
+⭐ Preview
+<img width="713" height="889" alt="Screenshot 2025-11-30 150337" src="https://github.com/user-attachments/assets/6d4c0b6f-7b67-4426-a80c-58ab5df4f686" />
 
 ## 🙌 Author
 
